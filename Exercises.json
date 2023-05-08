@@ -1,29 +1,77 @@
 {
- Exercises: [
+ "Exercises": 
+ [
    {
-     
+        "ExerciseName" = "Bicep Curls"
+        "ExerciseDescription" = "Hold a dumbbell in each hand. Alternating arms, slowly raise the dumbbell to your chest, making sure to keep your elbows at your side."
+        "ExerciseSets" = "4"
+        "ExerciseReps" = "20"
+        "ExerciseIntensity" = "Medium"
+        "ExerciseImageName" = "bicep-curl.png"
+        "ExerciseVideoLink" = "https://youtu.be/ykJmrZ5v0Oo"
+   {
+        "ExerciseName" = "Lunges",
+        "ExerciseDescription" = "Hold a dumbbell in each hand. Take a large step forward with one foot, keeping your other foot planted. Lower yourself until your rear knee nearly touches the ground. Repeat with your other leg."
+        "ExerciseSets" = "3"
+        "ExerciseReps" = "25"
+        "ExerciseIntensity" = "Low"
+        "ExerciseImageName" = "lunges.png"
+        "ExerciseVideoLink" = "https://youtu.be/QF0BQS2W80k"
    }
    {
-     
+        "ExerciseName" = "Seated Leg Curls",
+        "ExerciseDescription" = "Sit on the exercise machine, such that your calves are resting on the leg rest. Bend your knees, pressing the leg rest downward until your legs create a 90 degree angle.",
+        "ExerciseSets" = "4",
+        "ExerciseReps" = "15",
+        "ExerciseIntensity" = "Medium",
+        "ExerciseImageName" = "",
+        "ExerciseVideoLink" = "https://youtu.be/Orxowest56U",
+   {
+        "ExerciseName" = "Chest Fly",
+        "ExerciseDescription" = "Hold a dumbbell in each hand. Lay on your back atop an excercise bench with your arms out to your side; your arms should be slightly bent. Without bending your elbows, raise the dumbells directly above you.",
+        "ExerciseSets" = "3",
+        "ExerciseReps" = "20",
+        "ExerciseIntensity" = "Medium",
+        "ExerciseImageName" = "",
+        "ExerciseVideoLink" = "https://youtu.be/eozdVDA78K0",
    }
    {
-     
+        "ExerciseName" = "Front Raises",
+        "ExerciseDescription" = "Hold a dumbbell in each hand, with an overhand grip. Keeping your arms straight, alternate raising each dumbbell up to shoulder level in front of you.",
+        "ExerciseSets" = "4",
+        "ExerciseReps" = "20",
+        "ExerciseIntensity" = "Medium",
+        "ExerciseImageName" = "",
+        "ExerciseVideoLink" = "https://youtu.be/-t7fuZ0KhDA",
    }
    {
-     
+        "ExerciseName" = "Bench Press",
+        "ExerciseDescription" = "Lay on the exercise bench with the bar directly above your head. Slowly lower the barbell, letting it breifly touch your chest before raising it back up.",
+        "ExerciseSets" = "2",
+        "ExerciseReps" = "10",
+        "ExerciseIntensity" = "High",
+        "ExerciseImageName" = "",
+        "ExerciseVideoLink" = "https://youtu.be/rT7DgCr-3pg",
    }
    {
-     
+        "ExerciseName" = "Dips",
+        "ExerciseDescription" = "Gripping the dip bars lift your feet off the ground. Lower your body as far as possible without letting your feet touch the ground. Raise yourself back up and repeat.",
+        "ExerciseSets" = "2",
+        "ExerciseReps" = "10",
+        "ExerciseIntensity" = "High",
+        "ExerciseImageName" = "",
+        "ExerciseVideoLink" = "https://youtu.be/dX_nSOOJIsE",
    }
    {
-     
-   }
-   {
-     
-   }
-   {
-     
+        "ExerciseName" = "Chin-ups",
+        "ExerciseDescription" = "rip the pull-up bar with an underhand grip. Lifting your feet off the ground, pull yourself up until your chin is level with the bar.",
+        "ExerciseSets" = "2",
+        "ExerciseReps" = ""10,
+        "ExerciseIntensity" = "High",
+        "ExerciseImageName" = "",
+        "ExerciseVideoLink" = "https://youtu.be/mRy9m2Q9_1I",
    }
 
-       ]
+ ],
+ "Status":"OK"
 }
