@@ -27,7 +27,8 @@
         "ExerciseIntensity":"Medium",
         "ExerciseImageName":"https://raw.githubusercontent.com/mlegan-gmu/mleganJSONProjectsIT315/main/leg-curl.png",
         "ExerciseVideoLink":"https://youtu.be/Orxowest56U",
-   {
+    },
+    {
         "ExerciseName":"Chest Fly",
         "ExerciseDescription":"Hold a dumbbell in each hand. Lay on your back atop an excercise bench with your arms out to your side; your arms should be slightly bent. Without bending your elbows, raise the dumbells directly above you.",
         "ExerciseSets":"3",
